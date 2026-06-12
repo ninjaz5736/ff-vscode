@@ -2,10 +2,10 @@
 	"name": "farbfeld-viewer",
 	"displayName": "Farbfeld Viewer",
 	"description": "Farbfeld (.ff) image viewer",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "ninjaz5736",
 	"private": true,
-	"license": "MIT",
+	"license": "0BSD",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ninjaz5736/ff-vscode"
