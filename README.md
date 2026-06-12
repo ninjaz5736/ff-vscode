@@ -9,7 +9,7 @@ Released under 0-Clause-BSD License.
 ## Install from release
 
 - Download release from GitHub
-- In VS Code, press `F1` or open `View -> Command Palette...`, then search for `Extensions: Install from VSIX...``
+- In VS Code, press `F1` or open `View -> Command Palette...`, then search for `Extensions: Install from VSIX...`
 - Find downloaded file, et voila, you can now open FF files!
 
 ## Build, run and develop locally:
