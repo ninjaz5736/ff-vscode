@@ -2,7 +2,7 @@
 	"name": "farbfeld-viewer",
 	"displayName": "Farbfeld Viewer",
 	"description": "Farbfeld (.ff) image viewer",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "ninjaz5736",
 	"private": true,
 	"license": "MIT",
