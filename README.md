@@ -1,4 +1,4 @@
-# Farbfeld Image Preview Extension
+# Farbfeld Image Preview Extension for Visual Studio Code
 
 Simple [Farbfeld](https://tools.suckless.org/farbfeld/) image viewer extension for VS Code.
 
